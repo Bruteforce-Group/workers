@@ -1,0 +1,12 @@
+name = "admin-dashboard-test"
+main = "index.js"
+compatibility_date = "2024-01-01"
+
+[[routes]]
+pattern = "admin-test.bozza.au/*"
+zone_name = "bozza.au"
+
+[vars]
+ENVIRONMENT = "test"
+ACCESS_TIER = "3"
+POLICY_NAME = "Admin - High Security"

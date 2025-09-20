@@ -1,0 +1,34 @@
+{
+  "migrated_at": "2025-09-19T23:27:40.008421",
+  "original_path": "/Users/danielborrowman/Documents/GitHub/workers",
+  "analysis": {
+    "name": "workers",
+    "path": "/Users/danielborrowman/Documents/GitHub/workers",
+    "size_mb": 0.12,
+    "file_count": 23,
+    "project_types": [
+      "shell",
+      "documentation"
+    ],
+    "languages": "set()",
+    "frameworks": "set()",
+    "has_git": false,
+    "git_status": null,
+    "dependencies": [],
+    "cleanup_candidates": [
+      "analyze-gateway-logs.sh"
+    ],
+    "cleanup_size_mb": 0.01,
+    "description": "Project type: shell, documentation. Size: 0.12MB (23 files)",
+    "priority": "medium",
+    "status": "active",
+    "last_modified": "2025-08-14T15:33:21"
+  },
+  "cleanup_performed": {
+    "project": "workers",
+    "files_removed": [],
+    "dirs_removed": [],
+    "size_freed_mb": 0.0,
+    "errors": []
+  }
+}
